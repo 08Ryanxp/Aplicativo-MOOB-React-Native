@@ -1,0 +1,2 @@
+Nearby Search (Pesquisa de locais por perto): retorna uma lista de locais por perto com base na localização da pessoa.
+Text Search (Pesquisa por texto): retorna uma lista de locais por perto com base em uma string de pesquisa, por exemplo, "Pizza".

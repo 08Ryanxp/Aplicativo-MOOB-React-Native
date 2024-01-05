@@ -1,0 +1,16 @@
+
+https://github.com/react-native-maps/react-native-maps
+https://firebase.google.com/docs/firestore/query-data/get-data?hl=pt-br#node.js_2
+https://rnfirebase.io/
+https://www.npmjs.com/package/react-native-dropdown-select-list
+https://youtu.be/UEfFjfW7Zes?si=fKzuKHetY3AOkmCT
+
+Cores:
+
+Azul -> #2D68FF
+
+Claros -> #C5DDFF / #9ac4fe / #71A9FF / #B3CDF4
+
+Escuro -> #011532
+
+Amarelo -> #FBA708
